@@ -1,0 +1,1 @@
+A simple Python Spider which has a well-formed structure. It uses the request library and mostly referenced from a video tutorial.
